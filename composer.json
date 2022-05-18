@@ -39,7 +39,7 @@
          "jarjarbernie/laravel-simple-setting": {
             "type": "git",
             "url": "https://github.com/JarJarBernie/laravel-simple-setting"
-        },
+        }
     ],
     "minimum-stability": "dev",
     "prefer-stable": true
